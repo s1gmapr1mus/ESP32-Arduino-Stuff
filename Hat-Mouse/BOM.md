@@ -13,3 +13,5 @@ https://www.amazon.ca/dp/B091YL52YW?psc=1&ref_=cm_sw_r_cp_ud_ct_43DT22WQE643A2TC
 https://www.amazon.ca/dp/B08XWN7N9Z?psc=1&ref_=cm_sw_r_cp_ud_ct_43DT22WQE643A2TCK7W7
 ### FTDI USB to TTL DONGLE (optional used for programming)
 https://a.co/d/bKvYEcN
+### RP 2040 ZERO MPU BOARD
+https://a.co/d/inVcfmF
