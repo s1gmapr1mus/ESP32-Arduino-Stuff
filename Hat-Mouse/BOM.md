@@ -9,3 +9,5 @@ https://a.co/d/3PrTFlC
 https://a.co/d/0gPqmgB 
 ### 400 mAh 3.7V LITHIUM BATTERY PACKS
 https://a.co/d/feonNMd
+### ESP32 MINI MPU BOARDS
+https://a.co/d/aX3ioBT
