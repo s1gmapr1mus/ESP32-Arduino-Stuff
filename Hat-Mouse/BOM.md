@@ -13,3 +13,5 @@ https://a.co/d/feonNMd
 https://a.co/d/aX3ioBT
 ### PCB PROTO BOARDS
 https://a.co/d/hWBw90d
+### MPU 6050 GYRO BOARDS
+https://a.co/d/gEHZYFu
